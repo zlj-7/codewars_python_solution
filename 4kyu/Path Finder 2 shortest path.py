@@ -22,4 +22,5 @@ def path_finder(maze):
                 if next_ in memory and memory[next_] <= step + 1:
                     continue
                 pq.put((step+1, next_))
+
     return memory[end] if end in memory else False
