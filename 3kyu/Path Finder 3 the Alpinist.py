@@ -23,5 +23,4 @@ def path_finder(area):
                 if tmp_pos in memory and memory[tmp_pos] <= tmp_cost + cur_cost:
                     continue
                 pq.put((tmp_cost+cur_cost, tmp_pos))
-                
     return memory[finish]
