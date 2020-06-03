@@ -45,11 +45,3 @@ def decode_rail_fence_cipher(string, n):
         if cur_level == 0 or cur_level == n-1:
             direction *= -1
     return res
-
-if __name__ == '__main__':
-    string = "WEAREDISCOVEREDFLEEATONCE"
-    encode = encode_rail_fence_cipher(string, 3)
-    print('encode : ' + encode)
-    decode = decode_rail_fence_cipher(encode, 3)
-    print('decode : ' + decode)
-    print(decode == string)

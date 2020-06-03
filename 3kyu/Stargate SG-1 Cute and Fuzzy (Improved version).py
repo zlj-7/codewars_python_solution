@@ -52,6 +52,7 @@ def wire_DHD_SG1(existingWires):
         for j in range(_c):
             ans += _existingWires[i][j]
         ans += '\n'
+
     return ans.strip('\n')
 
 def reach(pos, existingWires):
@@ -63,4 +64,5 @@ def reach(pos, existingWires):
         if 0 <= tmp_pos[0] < r and 0 <= tmp_pos[1] < c and existingWires[tmp_pos[0]][tmp_pos[1]] != 'X':
             dist = math.sqrt((pos[0]-tmp_pos[0])**2 + (pos[1]-tmp_pos[1])**2)
             res.append((tmp_pos, dist))
+
     return res

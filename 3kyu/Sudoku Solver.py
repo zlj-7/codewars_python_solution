@@ -47,6 +47,7 @@ def sudoku(puzzle):
                         puzzle[pos[0]][pos[1]] = 0
             return False
     dfs((0, 0))
+
     return res
 
 def init_visit(puzzle, visited):
