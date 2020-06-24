@@ -18,11 +18,16 @@ Solution List:
 
 4kyu:
 
+- All Balanced Parentheses
+
 - Chinese Numeral Encoder
 
 - Path Finder 2 shortest path
-  
+
+- Recover a secret string from random triplets
+
 - Snail
+
 
 
 
