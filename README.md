@@ -21,6 +21,8 @@ Solution List:
 - All Balanced Parentheses
 
 - Chinese Numeral Encoder
+  
+- Next bigger number with the same digits
 
 - Path Finder 2 shortest path
 
