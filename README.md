@@ -21,12 +21,16 @@ Solution List:
 - All Balanced Parentheses
 
 - Chinese Numeral Encoder
+
+- Human readable duration format
   
 - Next bigger number with the same digits
 
 - Path Finder 2 shortest path
 
 - Recover a secret string from random triplets
+
+- The observed PIN
 
 - Snail
 
