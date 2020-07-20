@@ -30,11 +30,21 @@ Solution List:
 
 - Recover a secret string from random triplets
 
+- Snail
+  
+- Strings Mix
+
 - The observed PIN
 
-- Snail
+
+5kyu:
 
 
+6kyu:
+
+- Decode the Morse Code
+- Find the odd int
+- Multiples of 3 or 5
 
 
 
