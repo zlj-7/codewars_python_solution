@@ -10,6 +10,8 @@ Solution List:
 
 - Rail Fence Cipher Encoding and Decoding
 
+- Screen Locking Patterns
+
 - Stargate SG-1 Cute and Fuzzy (Improved version)
 
 - Sudoku Solver
@@ -30,7 +32,11 @@ Solution List:
 
 - Recover a secret string from random triplets
 
+- Shortest Knight Path
+
 - Snail
+  
+- SPF Russia
   
 - Strings Mix
 
@@ -45,6 +51,8 @@ Solution List:
 - Decode the Morse Code
 - Find the odd int
 - Multiples of 3 or 5
+- Persistent Bugger.
+- Stop gninnipS My sdroW!
 
 
 
