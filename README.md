@@ -49,9 +49,13 @@ Solution List:
 6kyu:
 
 - Decode the Morse Code
+  
 - Find the odd int
+  
 - Multiples of 3 or 5
+
 - Persistent Bugger.
+  
 - Stop gninnipS My sdroW!
 
 
