@@ -23,14 +23,22 @@ Solution List:
 - All Balanced Parentheses
 
 - Chinese Numeral Encoder
+  
+- Explosive Sum
+
+- Hamming Numbers
 
 - Human readable duration format
   
 - Next bigger number with the same digits
 
+- Next smaller number with the same digits
+
 - Path Finder 2 shortest path
 
 - Recover a secret string from random triplets
+
+- Range Extraction
 
 - Shortest Knight Path
 
