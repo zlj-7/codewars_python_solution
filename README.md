@@ -53,11 +53,16 @@ Solution List:
 
 5kyu:
 
+- Factorial decomposition
+
+- Weight for weight
 
 6kyu:
 
 - Decode the Morse Code
   
+- Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)
+
 - Find the odd int
   
 - Multiples of 3 or 5
