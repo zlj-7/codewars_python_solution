@@ -71,5 +71,17 @@ Solution List:
   
 - Stop gninnipS My sdroW!
 
+7kyu:
 
+- Get the Middle Character
+
+- Mumbling
+
+8kyu:
+
+- Even or Odd
+
+- Opposite number
+
+- Sum of positive
 
