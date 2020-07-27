@@ -22,6 +22,8 @@ Solution List:
 
 - All Balanced Parentheses
 
+- Boggle Word Checker
+
 - Chinese Numeral Encoder
   
 - Explosive Sum
@@ -55,7 +57,15 @@ Solution List:
 
 - Factorial decomposition
 
+- Moving Zeros To The End
+
+- Product of consecutive Fib numbers
+
+- Scramblies
+
 - Weight for weight
+
+- Where my anagrams at
 
 6kyu:
 
