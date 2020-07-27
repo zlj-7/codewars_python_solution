@@ -57,5 +57,5 @@ class Dinglemouse(object):
                     stops.append(floor)
         if stops[-1] != 0:
             stops.append(0)
-            
+
         return stops

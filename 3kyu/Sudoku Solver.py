@@ -57,3 +57,7 @@ def init_visit(puzzle, visited):
                 visited['row'][i].add(puzzle[i][j])
                 visited['col'][j].add(puzzle[i][j])
                 visited['box'][3*(i//3)+j//3].add(puzzle[i][j])
+
+if __name__ == '__main__':
+    print('原始数独数据')
+    puzzle = [[]]
