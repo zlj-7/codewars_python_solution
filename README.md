@@ -25,6 +25,8 @@ Solution List:
 - Boggle Word Checker
 
 - Chinese Numeral Encoder
+
+- Equal to 24
   
 - Explosive Sum
 
@@ -62,6 +64,8 @@ Solution List:
 - Product of consecutive Fib numbers
 
 - Scramblies
+
+- Sections
 
 - Weight for weight
 
