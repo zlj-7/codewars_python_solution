@@ -4,6 +4,8 @@ Solution List:
 
 3kyu:
 
+- Bloxorz Solver
+
 - Huffman Encoding
 
 - Path Finder 3 the Alpinist
@@ -15,6 +17,8 @@ Solution List:
 - Stargate SG-1 Cute and Fuzzy (Improved version)
 
 - Sudoku Solver
+
+- The boolean order
 
 - The Lift
 
@@ -45,6 +49,8 @@ Solution List:
 - Range Extraction
 
 - Shortest Knight Path
+
+- Simplifying multilinear polynomials
 
 - Snail
   
