@@ -1,4 +1,4 @@
-### Codewars
+# Codewars Problem List
 
 Solution List:
 
@@ -41,6 +41,8 @@ Solution List:
 - Next bigger number with the same digits
 
 - Next smaller number with the same digits
+
+- parseInt() reloaded
 
 - Path Finder 2 shortest path
 
