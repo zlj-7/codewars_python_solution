@@ -30,6 +30,8 @@ Solution List:
 
 - Chinese Numeral Encoder
 
+- Elemental Words
+
 - Equal to 24
   
 - Explosive Sum
@@ -61,7 +63,6 @@ Solution List:
 - Strings Mix
 
 - The observed PIN
-
 
 5kyu:
 
@@ -106,4 +107,3 @@ Solution List:
 - Opposite number
 
 - Sum of positive
-
